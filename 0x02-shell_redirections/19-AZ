@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'A/z' | sed 'c/e' 
+tr 'Ac' 'Ze'
