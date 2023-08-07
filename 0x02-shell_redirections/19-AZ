@@ -1,0 +1,2 @@
+#!/bin/bash
+sed 'A/z' | sed 'c/e' 
